@@ -1,0 +1,22 @@
+GREEN AI PROJECT REPORT
+Date: 2025-06-17
+Project: Solar Energy Prediction with Real Data
+Dataset: German Solar Generation (2006-2017)
+Training Period: 2012-01-07 to 2015-12-31
+Testing Period: 2016-01-01 to 2017-12-31
+
+MODEL PERFORMANCE
+- Testing MAE: 19.91 GWh
+- Testing R²: 0.8277
+- Top Feature: Solar_Rolling7 (431)
+
+ENVIRONMENTAL IMPACT
+- Total CO₂ Emissions: 0.001380 kg
+- Energy Consumed: 0.001934 kWh
+- Emissions Intensity: 0.0010 g CO₂/1000 samples
+
+GREEN AI RECOMMENDATIONS
+1. Use during off-peak energy hours for training
+2. Select cloud regions with high renewable energy mix
+3. Employ model pruning for efficiency
+4. Reuse models instead of retraining
